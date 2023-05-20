@@ -1,0 +1,27 @@
+#d {
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Times New Roman';
+    color: red;
+    
+}
+body {
+    background-image: url('texture.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+  }
+  *
+  {
+    text-align: justify;
+    text-justify: inter-word;
+  }
+  #c{
+        background-color: aqua;
+  }
+
+  #a{
+    background-color: yellowgreen;
+  }
+
+ 
